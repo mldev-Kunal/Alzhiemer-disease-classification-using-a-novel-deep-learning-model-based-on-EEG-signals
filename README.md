@@ -1,4 +1,4 @@
-# alzhiemer's-classification-using-a-novel-deep-learning-model-based-on-EEG-signals
+# alzhiemer's-classification-using-a-novel-deep-learning-model-architecture-based-on-EEG-signals
 
 With three different classes of Patients AD(Alzhiemer Disease),MCI(Mild-Cognitive-Impairment),HC(Healthy Control or Normal)
 
